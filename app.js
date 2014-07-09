@@ -14,7 +14,7 @@ app.get('/', function (req, res) { res.render('index.html'); });
 app.get('/cognection', function (req, res) { res.render('cognection.html'); });
 app.get('/competitive-analysis', function (req, res) { res.render('companalysis.html'); });
 app.get('/contact', function (req, res) { res.render('contact.html'); });
-app.get('/simply-desserts', function (req, res) { res.render('desserts'); });
+app.get('/simply-desserts', function (req, res) { res.render('desserts.html'); });
 app.get('/flyers', function (req, res) { res.render('flyers.html'); });
 app.get('/gsu-evaluation', function (req, res) { res.render('gsu.html'); });
 app.get('/illustrations', function (req, res) { res.render('illustrations.html'); });
