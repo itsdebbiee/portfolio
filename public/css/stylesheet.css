@@ -624,6 +624,11 @@ img.grayscale:hover {
     margin-top:15px;
 }
 
+.about-container {
+    margin-bottom: 70px;
+}
+
+
 /*
 FOOTER =================================== */
 #footer {
